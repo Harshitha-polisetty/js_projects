@@ -1,0 +1,20 @@
+html,body{
+    margin-top:4cm;
+    margin-left:5cm;
+}
+.btn{
+    padding:10px;
+    height:40px;
+    width:115px;
+    color:white;
+    cursor: pointer;
+}
+#r-btn{
+    background-color: red;
+}
+#b-btn{
+    background-color: blue;
+}
+#o-btn{
+    background-color: orange;
+}
