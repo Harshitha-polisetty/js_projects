@@ -1,0 +1,26 @@
+html,body{
+    background-color: beige;
+}
+.btn{
+    padding: 2cm;
+    border-radius: 1cm;
+    border:2px solid black;
+}
+.btn:hover{
+    color: blanchedalmond;
+    background-color: blueviolet;
+    border:none;
+}
+.but{
+    display:flex; 
+    gap:1cm;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+#counter{
+    display:flex;
+    justify-content: center;
+    font-size: xx-large;
+}
